@@ -1,0 +1,55 @@
+h1 {
+  color: #fff;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 7px #d7d4ff, 0 0 17px #97a7ff, 0 0 27px #6883ff, 0 0 37px #0077ff, 0 0 47px #9faeff, 0 0 57px #426eff, 0 0 67px #6696ff;
+  }
+  to {
+    text-shadow: 0 0 17px #5c95ff, 0 0 27px #3459ff, 0 0 37px #085e79, 0 0 10px #4355ff, 0 0 57px #2e77ff, 0 0 2px #bebcff, 0 0 10px #ffffff;
+  }
+}
+
+#joindiscord:hover {
+  color: white;
+  text-shadow: 3px 2px 2px rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: large;
+  font-weight: 300px;
+  text-align: center;
+  text-decoration: underline;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 7px #ffffff, 0 0 17px #dadada, 0 0 27px #6883ff, 0 0 10px #89bffd, 0 0 34px #4d67ff, 0 0 27px #adbae2, 0 0 30px #96b7ff;
+  }
+  to {
+    text-shadow: 0 0 17px #ffffff, 0 0 27px #3459ff, 0 0 37px #085e79, 0 0 10px #4355ff, 0 0 10px #1768ff, 0 0 2px #928eff, 0 0 10px #6a72dd;
+  }
+}
+
+#top1 {
+  color: #fff;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 7px #fff0ae, 0 0 17px #ffffff, 0 0 27px #faeb96, 0 0 37px #cec14a, 0 0 47px #ffa237, 0 0 57px #ebb87e, 0 0 67px #e4d689;
+  }
+  to {
+    text-shadow: 0 0 17px #000000, 0 0 27px #585747, 0 0 37px #fffab6, 0 0 10px #ffd563, 0 0 57px #b4af93, 0 0 2px #bebcff, 0 0 10px #fff2b6;
+  }
+}

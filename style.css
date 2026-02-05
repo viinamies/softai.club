@@ -1,0 +1,245 @@
+html {
+    background-color: black;
+}
+h1 {
+    color: white;
+    text-shadow: 3px 2px 2px rgb(158, 159, 255);
+}
+#softai {
+    display: block;
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 1050px;
+    height: 650px;
+    width: 700px;
+}
+#softai2 {
+    display: block;
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 1050px;
+    height: 650px;
+    width: 700px;
+    background: black;
+}
+#softai2:hover {
+    display: block;
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 550px;
+    height: 650px;
+    widows: 700px;
+    background: black;
+    padding-left: 5px;
+    padding-bottom: 180px;
+    padding-top: 50px;
+    padding-right: 100px;
+}
+#buylua {
+    color: rgb(212, 223, 255);
+    text-shadow: 2px 2px 1px rgb(67, 148, 255);
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    margin-top: 2px;
+    margin-left: 1000px;
+}
+#buylua:hover {
+    color: white;
+    text-shadow: 3px 2px 2px rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: large;
+    font-weight: 300px;
+    text-decoration: underline;
+}
+#length {
+    color: rgb(173, 223, 35);
+    text-shadow: none;
+    display: block;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 430px;
+    font-weight: 100px;
+    font-size: medium;
+}
+#a1 {
+    color: white;
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 430px;
+}
+#a1:hover {
+    color: greenyellow;
+    text-decoration: none;
+    text-shadow: 1px 3px 2px rgb(205, 255, 111);
+    font-weight: 500px;
+    font-size: large;
+}
+#a2 {
+    color: white;
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    margin-top: 255px;
+    margin-left: 430px;
+}
+#a2:hover {
+    color: greenyellow;
+    text-decoration: none;
+    text-shadow: 1px 3px 2px rgb(205, 255, 111);
+    font-weight: 500px;
+    font-size: large;
+}
+#a3 {
+    color: white;
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 430px;
+}
+#a3:hover {
+    color: greenyellow;
+    text-decoration: none;
+    text-shadow: 1px 3px 2px rgb(205, 255, 111);
+    font-weight: 500px;
+    font-size: large;
+}
+#joindiscord {
+    color: white;
+    text-shadow: 2px 2px 1px rgb(67, 148, 255);
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    margin-top: 2px;
+    margin-left: 900px;
+}
+#softmedia1 {
+    display: block;
+    position: absolute;
+    width: 800px;
+    height: 600px;
+    margin-top: 100px;
+    border-radius: 15px;
+    border-color: rgb(107, 112, 156);
+}
+#aboutus {
+    color: rgb(115, 148, 255);
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    margin-top: 2px;
+    margin-left: 790px;
+    font-weight: bold;
+}
+#aboutus:hover {
+    color: rgb(212, 223, 255);
+    text-decoration: underline;
+    text-shadow: 3px 2px 2px rgb(86, 108, 207);
+    font-size: medium;
+}
+#p1 {
+    color: white;
+    display: block;
+    position: absolute;
+    margin-top: 225px;
+    margin-left: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700px;
+}
+#p2 {
+    color: white;
+    display: block;
+    position: absolute;
+    margin-top: 245px;
+    margin-left: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700px;
+}
+#p3 {
+    color: white;
+    display: block;
+    position: absolute;
+    margin-top: 280px;
+    margin-left: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700px;
+}
+#p4 {
+    color: rgb(166, 250, 31);
+    text-shadow: 3px 2px 2px rgba(172, 255, 47, 0.589);
+    display: block;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700px;
+}
+#background1 {
+    display: block;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 250px;
+    width: 1050px;
+    height: 1000px;
+    padding: 0px;
+}
+#bestmedia {
+    color: greenyellow;
+    text-decoration: none;
+    text-shadow: 3px 2px 1px rgb(83, 134, 104);
+    display: block;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 890px;
+    font-size: large;
+    font-weight: bold;
+}
+#bestmedia:hover {
+    color: rgb(99, 107, 133);
+    text-shadow: none;
+}
+#top1 {
+    color: rgb(236, 216, 179);
+    text-shadow: 2px 1px 2px gray;
+    display: block;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 900px;
+}
+#top2 {
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 1px 2px gray;
+    display: block;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 1200px;
+}
+#top3 {
+    color: rgb(224, 224, 224);
+    text-shadow: 2px 1px 2px gray;
+    display: block;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 600px;
+}
+#top1media {
+    display: block;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 760px;
+}
+#top2media {
+    display: block;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 450px;
+}
+#top3media {
+    display: block;
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 1070px;
+}
