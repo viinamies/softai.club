@@ -36,13 +36,12 @@ h1 {
     padding-right: 100px;
 }
 #buylua {
-    color: rgb(212, 223, 255);
-    text-shadow: 2px 2px 1px rgb(67, 148, 255);
+    color: rgb(255, 255, 255);
     text-decoration: none;
     display: block;
     position: absolute;
     margin-top: 2px;
-    margin-left: 1000px;
+    margin-left: 960px;
 }
 #buylua:hover {
     color: white;
@@ -58,9 +57,12 @@ h1 {
     display: block;
     position: absolute;
     margin-top: 200px;
-    margin-left: 430px;
+    margin-left: 755px;
     font-weight: 100px;
-    font-size: medium;
+    font-size: x-large;
+}
+#buybackground {
+    background-color: rgb(22, 22, 22);
 }
 #a1 {
     color: white;
@@ -68,7 +70,8 @@ h1 {
     display: block;
     position: absolute;
     margin-top: 230px;
-    margin-left: 430px;
+    margin-left: 755px;
+    font-size: larger;
 }
 #a1:hover {
     color: greenyellow;
@@ -83,7 +86,8 @@ h1 {
     display: block;
     position: absolute;
     margin-top: 255px;
-    margin-left: 430px;
+    margin-left: 755px;
+    font-size: larger;
 }
 #a2:hover {
     color: greenyellow;
@@ -98,7 +102,8 @@ h1 {
     display: block;
     position: absolute;
     margin-top: 280px;
-    margin-left: 430px;
+    margin-left: 755px;
+    font-size: larger;
 }
 #a3:hover {
     color: greenyellow;
@@ -114,7 +119,7 @@ h1 {
     display: block;
     position: absolute;
     margin-top: 2px;
-    margin-left: 900px;
+    margin-left: 865px;
 }
 #softmedia1 {
     display: block;
@@ -131,7 +136,7 @@ h1 {
     display: block;
     position: absolute;
     margin-top: 2px;
-    margin-left: 790px;
+    margin-left: 755px;
     font-weight: bold;
 }
 #aboutus:hover {
@@ -202,7 +207,7 @@ h1 {
     text-shadow: none;
 }
 #top1 {
-    color: rgb(236, 216, 179);
+    color: rgb(245, 231, 206);
     text-shadow: 2px 1px 2px gray;
     display: block;
     position: absolute;
@@ -210,7 +215,7 @@ h1 {
     margin-left: 900px;
 }
 #top2 {
-    color: rgb(255, 255, 255);
+    color: rgb(228, 228, 228);
     text-shadow: 2px 1px 2px gray;
     display: block;
     position: absolute;
@@ -218,7 +223,7 @@ h1 {
     margin-left: 1200px;
 }
 #top3 {
-    color: rgb(224, 224, 224);
+    color: rgb(145, 145, 145);
     text-shadow: 2px 1px 2px gray;
     display: block;
     position: absolute;
@@ -242,4 +247,31 @@ h1 {
     position: absolute;
     margin-top: 190px;
     margin-left: 1070px;
+}
+#features {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    margin-top: 3px;
+    margin-left: 1027px;
+}
+#features:hover {
+    color: white;
+    text-shadow: 3px 2px 2px rgb(255, 255, 255);
+    text-decoration: none;
+    font-size: large;
+    font-weight: 300px;
+    text-decoration: underline;
+}
+#listfeatures {
+    color: white;
+    display: block;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 870px;
+}
+#featuresbackground {
+    background-color: rgb(17, 17, 17);
+    background: rgb(19, 19, 19);
 }

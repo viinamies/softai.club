@@ -36,20 +36,3 @@ h1 {
     text-shadow: 0 0 17px #ffffff, 0 0 27px #3459ff, 0 0 37px #085e79, 0 0 10px #4355ff, 0 0 10px #1768ff, 0 0 2px #928eff, 0 0 10px #6a72dd;
   }
 }
-
-#top1 {
-  color: #fff;
-  text-align: center;
-  -webkit-animation: glow 1s ease-in-out infinite alternate;
-  -moz-animation: glow 1s ease-in-out infinite alternate;
-  animation: glow 1s ease-in-out infinite alternate;
-}
-
-@-webkit-keyframes glow {
-  from {
-    text-shadow: 0 0 7px #fff0ae, 0 0 17px #ffffff, 0 0 27px #faeb96, 0 0 37px #cec14a, 0 0 47px #ffa237, 0 0 57px #ebb87e, 0 0 67px #e4d689;
-  }
-  to {
-    text-shadow: 0 0 17px #000000, 0 0 27px #585747, 0 0 37px #fffab6, 0 0 10px #ffd563, 0 0 57px #b4af93, 0 0 2px #bebcff, 0 0 10px #fff2b6;
-  }
-}
